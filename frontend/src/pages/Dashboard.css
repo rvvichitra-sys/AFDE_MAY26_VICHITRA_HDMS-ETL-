@@ -1,0 +1,80 @@
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.stat-card {
+  background: #fff;
+  border-radius: var(--radius);
+  padding: 20px;
+  box-shadow: var(--shadow);
+  border-left: 4px solid transparent;
+}
+
+.stat-total { border-left-color: var(--primary); }
+.stat-open { border-left-color: #2563eb; }
+.stat-progress { border-left-color: #ca8a04; }
+.stat-resolved { border-left-color: var(--success); }
+.stat-closed { border-left-color: var(--gray-400); }
+
+.stat-value {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--gray-900);
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  color: var(--gray-500);
+  margin-top: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.recent-section { margin-bottom: 24px; }
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.section-header h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.tickets-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.tickets-table th {
+  text-align: left;
+  padding: 8px 12px;
+  background: var(--gray-50);
+  border-bottom: 1px solid var(--gray-200);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--gray-500);
+}
+
+.tickets-table td {
+  padding: 12px;
+  border-bottom: 1px solid var(--gray-100);
+  vertical-align: middle;
+}
+
+.tickets-table tr:hover td {
+  background: var(--gray-50);
+}
+
+.ticket-id { color: var(--gray-400); font-size: 0.8rem; }
+.employee-name { font-weight: 500; }
+.department { font-size: 0.75rem; color: var(--gray-400); }
+.date { color: var(--gray-500); font-size: 0.8rem; }

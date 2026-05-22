@@ -1,0 +1,233 @@
+ticket_id,employee_name,department,issue_category,description,priority,status,created_date,resolved_date
+H0206,Carol White,Finance,Network Connectivity,Cannot access internal SharePoint sites,Critical,In Progress,2026-04-29,
+H0067,Emma Davis,Marketing,VPN Issue,Getting authentication error when connecting to VPN,High,Open,2026-02-02,
+H0007,David Brown,Engineering,VPN Issue,Getting authentication error when connecting to VPN,med,Closed,2025-11-25,2025-12-09
+H0053,Carol White,Finance,Laptop Issue,Laptop not connecting to external monitor,High,Resolved,2026-01-06,2026-01-17
+H0119,Zachary Nelson,Operations,VPN Issue,Getting authentication error when connecting to VPN,HIGH,Resolved,2026-03-17,2026-03-28
+H0148,William Scott,Sales,Software Installation,Requesting Zoom desktop app installation,Critical,Resolved,2025-11-19,2025-11-24
+H0120,Carol White,Finance,Email Access,"Cannot send emails, getting SMTP error",High,In Progress,2025-11-04,
+H0031,Henry Taylor,Operations,VPN Issue,Cannot connect to company VPN from home office,Medium,Open,2026-03-26,
+H0129,Patrick Rodriguez,IT,Network Connectivity,WiFi dropping in Building B,Critical,Open,2026-02-23,
+H0188,Alice Johnson,Engineering,Hardware Request,Need webcam and headset for remote meetings,Critical,Resolved,2026-01-13,2026-01-15
+H0039,Rachel Walker,Legal,Password Reset,"Password expired, cannot access systems",Critical,In Progress,2026-01-02,
+H0089,Henry Taylor,Operations,Hardware Request,Need ergonomic keyboard and mouse,Medium,Resolved,2025-12-08,2025-12-09
+H0046,Patrick Rodriguez,IT,Password Reset,"Forgot Windows login password, locked out",Critical,Resolved,2025-11-16,2025-11-23
+H0097,Isabella Martinez,Engineering,Hardware Request,Requesting docking station for new laptop,Critical,Open,2026-04-10,
+H0158,Noah Thompson,Sales,Software Installation,Requesting Microsoft Project for project management,High,Open,2026-04-21,
+H0145,Yasmine Baker,IT,Password Reset,Need to reset email password after upgrade,Medium,Resolved,2026-01-07,2026-01-10
+H0210,Umar King,Finance,VPN Issue,Cannot connect to company VPN from home office,urgent,Resolved,2026-04-07,2026-04-12
+H0178,Benjamin Mitchell,Engineering,Network Connectivity,Internet extremely slow on 3rd floor,Medium,In Progress,2025-11-20,
+H0102,Amy Carter,Legal,Laptop Issue,Screen flickering and display distorted,Critical,Open,2026-05-17,
+H0062,Victoria Wright,Marketing,Network Connectivity,WiFi dropping in Building B,High,Resolved,2026-03-10,2026-03-15
+H0128,Henry Taylor,Operations,Network Connectivity,Cannot access internal SharePoint sites,Critical,Open,2026-03-06,
+H0088,Carol White,Finance,Software Installation,Need Python and Anaconda for data analysis,High,Resolved,2025-11-24,2025-12-05
+H0115,William Scott,Sales,Software Installation,Requesting Microsoft Project for project management,High,Resolved,2025-12-13,2025-12-26
+H0075,Benjamin Mitchell,Engineering,VPN Issue,VPN timeout after 30 minutes of inactivity,High,In Progress,2026-01-29,
+H0133,James Anderson,Legal,Software Installation,Need Adobe Creative Suite for design project,Critical,Resolved,2025-12-01,2025-12-07
+H0010,Tina Young,HR,Hardware Request,Need replacement power adapter for laptop,High,Open,2026-03-28,
+H0060,Isabella Martinez,Engineering,VPN Issue,Getting authentication error when connecting to VPN,Low,Open,2026-05-10,
+H0043,Rachel Walker,Legal,Laptop Issue,Keyboard keys sticking and not responding,Medium,Open,2026-02-17,
+H0041,Noah Thompson,Sales,Laptop Issue,"Laptop running extremely slow, 10+ min to boot",Low,Open,2026-04-22,
+H0013,Umar King,Finance,Hardware Request,Need ergonomic keyboard and mouse,High,Closed,2025-12-12,2025-12-18
+H0047,Mia Harris,Marketing,Software Installation,Requesting Zoom desktop app installation,Critical,In Progress,2026-01-13,
+H0135,Isabella Martinez,Engineering,email,Account locked after multiple failed attempts,High,Resolved,2025-11-26,2025-12-01
+H0127,William Scott,Sales,Software Installation,Need Adobe Creative Suite for design project,Low,Open,2026-03-13,
+H0131,Victoria Wright,Marketing,Email Access,"Cannot send emails, getting SMTP error",High,In Progress,2026-03-02,
+H0198,Noah Thompson,Sales,Software Installation,Need AutoCAD for engineering drawings,Medium,Closed,2025-12-04,2025-12-13
+H0002,Henry Taylor,Operations,Password Reset,Need to reset two-factor authentication,Low,Open,2026-04-23,
+H0173,William Scott,Sales,Password Reset,"Forgot Windows login password, locked out",Critical,In Progress,2025-12-30,
+H0003,Noah Thompson,Sales,VPN Issue,"VPN is extremely slow, impacting productivity",Low,Resolved,2025-11-24,2025-11-28
+H0192,James Anderson,Legal,VPN Issue,VPN timeout after 30 minutes of inactivity,Critical,Resolved,2026-01-10,2026-01-20
+H0005,Samuel Hall,Engineering,Software Installation,Requesting Zoom desktop app installation,Low,Open,2026-05-14,
+H0023,Noah Thompson,Sales,Email Access,"Cannot send emails, getting SMTP error",Low,Resolved,2026-02-07,2026-02-17
+H0036,Henry Taylor,Operations,Password Reset,Need to reset email password after upgrade,High,Resolved,2025-11-06,2025-11-16
+H0208,David Brown,Engineering,VPN Issue,VPN client not installed on new laptop,Medium,Open,2026-03-18,
+H0108,Umar King,Finance,Hardware Request,Requesting second monitor for productivity,Medium,Open,2026-02-27,
+H0079,Christine Perez,HR,Email Access,"Cannot send emails, getting SMTP error",Medium,Resolved,2026-01-05,2026-01-17
+H0162,Grace Lee,IT,password,"Laptop running extremely slow, 10+ min to boot",High,Resolved,2026-04-09,2026-04-20
+H0015,Xena Green,Engineering,Password Reset,New employee account password setup required,Medium,Resolved,2026-02-27,2026-03-04
+H0204,Liam Jackson,Finance,VPN Issue,"VPN is extremely slow, impacting productivity",Medium,Open,2026-03-01,
+H0205,Christine Perez,HR,Email Access,Calendar not syncing with team members,High,Open,2026-04-06,
+H0100,Emma Davis,Marketing,Network Connectivity,Cannot connect to office printer over network,Medium,In Progress,2025-11-17,
+H0199,Daniel Roberts,Finance,Software Installation,Need Python and Anaconda for data analysis,Medium,In Progress,2026-01-05,
+H0064,Umar King,Finance,Software Installation,Requesting Zoom desktop app installation,Medium,Resolved,2026-05-09,2026-05-18
+H0065,Noah Thompson,Sales,Email Access,Emails not syncing on mobile device,Low,Resolved,2025-11-29,2025-12-11
+H0146,Frank Wilson,Sales,Email Access,"Cannot send emails, getting SMTP error",Low,Resolved,2025-12-11,2025-12-18
+H0113,Grace Lee,IT,Hardware Request,Need ergonomic keyboard and mouse,Low,Open,2026-04-09,
+H0209,Olivia Garcia,Engineering,Software Installation,Requesting Slack installation on laptop,Critical,Open,2026-03-31,
+H0105,Henry Taylor,Operations,Software Installation,Requesting Slack installation on laptop,med,Open,2026-03-05,
+H0215,Zachary Nelson,Operations,Email Access,Emails not syncing on mobile device,Medium,Resolved,2025-11-18,2025-11-28
+H0050,Bob Smith,HR,Email Access,Cannot access Outlook after password change,Critical,Open,2026-03-09,
+H0207,Noah Thompson,Sales,Password Reset,"Password expired, cannot access systems",Medium,Resolved,2025-11-12,2025-11-17
+H0061,James Anderson,Legal,Email Access,Emails not syncing on mobile device,Medium,In Progress,2026-05-03,
+H0092,Umar King,Finance,Network Connectivity,Cannot connect to office printer over network,Low,Open,2026-05-12,
+H0149,Samuel Hall,Engineering,Network Connectivity,Network port at workstation appears dead,Medium,Open,2026-02-17,
+H0121,David Brown,Engineering,Laptop Issue,Blue screen occurring multiple times daily,High,Resolved,2026-04-12,2026-04-24
+H0194,Yasmine Baker,IT,Hardware Request,Need ergonomic keyboard and mouse,Medium,In Progress,2026-04-05,
+H0051,Quinn Lewis,Operations,VPN Issue,VPN connection drops frequently during work hours,Medium,Resolved,2025-11-18,2025-11-29
+H0029,Liam Jackson,Finance,Hardware Request,Requesting USB hub for peripherals,Medium,Open,2026-03-19,
+H0006,Noah Thompson,Sales,Software Installation,Need Python and Anaconda for data analysis,High,Resolved,2025-12-10,2025-12-23
+H0099,Christine Perez,HR,password,Laptop not connecting to external monitor,Low,Resolved,2025-12-06,2025-12-10
+H0177,Quinn Lewis,Operations,Laptop Issue,"Battery drains in 2 hours, needs replacement",Low,Open,2026-05-04,
+H0212,David Brown,Engineering,Network Connectivity,WiFi dropping in Building B,High,In Progress,2026-03-20,
+H0037,Alice Johnson,Engineering,VPN Issue,Getting authentication error when connecting to VPN,Low,Resolved,2025-12-29,2025-12-30
+H0197,Samuel Hall,Engineering,Software Installation,Requesting Zoom desktop app installation,Medium,Closed,2025-11-24,2025-11-30
+H0186,Benjamin Mitchell,Engineering,Laptop Issue,Blue screen occurring multiple times daily,Medium,Open,2026-03-08,
+H0189,Liam Jackson,Finance,software,Requesting Slack installation on laptop,low,Resolved,2026-04-13,2026-04-25
+H0015,Xena Green,Engineering,Password Reset,New employee account password setup required,Medium,Resolved,2026-02-27,2026-03-04
+H0172,Liam Jackson,Finance,Software Installation,Requesting Microsoft Project for project management,Critical,In Progress,2026-02-25,
+H0152,David Brown,Engineering,Laptop Issue,Screen flickering and display distorted,High,Resolved,2026-04-29,2026-05-04
+H0086,Zachary Nelson,Operations,Email Access,Calendar not syncing with team members,High,Resolved,2026-02-28,2026-03-08
+H0104,Benjamin Mitchell,Engineering,Hardware Request,Need webcam and headset for remote meetings,Critical,Open,2026-03-18,
+H0202,Liam Jackson,Finance,VPN Issue,Cannot connect to company VPN from home office,Critical,Closed,2025-11-04,2025-11-13
+H0033,Victoria Wright,Marketing,Laptop Issue,Blue screen occurring multiple times daily,Medium,In Progress,2026-01-07,
+H0063,Carol White,Finance,laptop,Requesting Microsoft Project for project management,med,Resolved,2026-01-10,2026-01-11
+H0159,Karen Thomas,HR,Laptop Issue,Screen flickering and display distorted,Critical,In Progress,2026-01-13,
+H0057,Emma Davis,Marketing,Software Installation,Requesting Microsoft Project for project management,Low,Closed,2026-01-02,2026-01-07
+H0035,Victoria Wright,Marketing,Network Connectivity,Cannot access shared network drives,HIGH,Resolved,2026-02-21,2026-02-23
+H0094,Olivia Garcia,Engineering,Password Reset,"Password expired, cannot access systems",Critical,In Progress,2026-04-20,
+H0191,Mia Harris,Marketing,Email Access,Calendar not syncing with team members,High,In Progress,2026-03-28,
+H0003,Noah Thompson,Sales,VPN Issue,"VPN is extremely slow, impacting productivity",Low,Resolved,2025-11-24,2025-11-28
+H0147,William Scott,Sales,Email Access,"Accidentally deleted important emails, need recovery",urgent,Resolved,2026-01-14,2026-01-18
+H0101,Karen Thomas,HR,Email Access,Emails not syncing on mobile device,Critical,Open,2026-02-15,
+H0020,Xena Green,Engineering,Email Access,"Cannot send emails, getting SMTP error",High,Resolved,2026-05-11,2026-05-21
+H0132,Xena Green,Engineering,Email Access,"Accidentally deleted important emails, need recovery",High,In Progress,2026-01-30,
+H0011,Carol White,Finance,VPN Issue,Cannot connect to company VPN from home office,Medium,In Progress,2026-05-17,
+H0077,Samuel Hall,Engineering,Software Installation,Need Python and Anaconda for data analysis,Low,In Progress,2025-11-28,
+H0179,Karen Thomas,HR,Email Access,"Accidentally deleted important emails, need recovery",Critical,Open,2026-04-16,
+H0042,Mia Harris,Marketing,Network Connectivity,Cannot access shared network drives,HIGH,Resolved,2025-11-28,2025-12-02
+H0093,Henry Taylor,Operations,Password Reset,"Forgot Windows login password, locked out",Critical,Resolved,2025-11-13,2025-11-27
+H0125,Victoria Wright,Marketing,Laptop Issue,Keyboard keys sticking and not responding,High,In Progress,2025-11-08,
+H0048,Xena Green,Engineering,Hardware Request,Need ergonomic keyboard and mouse,Critical,Resolved,2025-12-10,2025-12-15
+H0213,Mia Harris,Marketing,Software Installation,Need Adobe Creative Suite for design project,Medium,In Progress,2025-12-02,
+H0024,Quinn Lewis,Operations,Software Installation,Requesting Zoom desktop app installation,Low,Open,2026-04-24,
+H0182,Carol White,Finance,Laptop Issue,"Battery drains in 2 hours, needs replacement",Medium,Open,2026-05-14,
+H0054,Karen Thomas,HR,Laptop Issue,Laptop not connecting to external monitor,High,Open,2026-02-10,
+H0049,Bob Smith,HR,Email Access,Cannot access Outlook after password change,Low,In Progress,2026-05-11,
+H0139,Patrick Rodriguez,IT,Laptop Issue,Keyboard keys sticking and not responding,Critical,Resolved,2026-01-27,2026-01-28
+H0068,Grace Lee,IT,Network Connectivity,Internet extremely slow on 3rd floor,Medium,Open,2026-04-20,
+H0161,Yasmine Baker,IT,Laptop Issue,"Laptop running extremely slow, 10+ min to boot",Low,Resolved,2026-04-18,2026-04-25
+H0012,Benjamin Mitchell,Engineering,Password Reset,"Password expired, cannot access systems",Low,In Progress,2026-02-06,
+H0004,Tina Young,HR,VPN Issue,VPN client not installed on new laptop,Medium,Resolved,2026-05-03,2026-05-07
+H0082,Christine Perez,HR,Software Installation,Requesting Slack installation on laptop,High,Resolved,2026-04-20,2026-04-26
+H0137,Bob Smith,HR,VPN Issue,VPN timeout after 30 minutes of inactivity,High,Open,2026-04-28,
+H0203,Olivia Garcia,Engineering,Software Installation,Requesting Zoom desktop app installation,low,Resolved,2026-03-30,2026-04-13
+H0009,Daniel Roberts,Finance,Hardware Request,Need replacement power adapter for laptop,Low,In Progress,2026-03-22,
+H0052,Mia Harris,Marketing,VPN Issue,"VPN is extremely slow, impacting productivity",Medium,Open,2026-03-29,
+H0154,Tina Young,HR,Software Installation,Need AutoCAD for engineering drawings,Low,Resolved,2025-11-24,2025-12-05
+H0073,Henry Taylor,Operations,Password Reset,Need to reset email password after upgrade,Critical,Closed,2026-01-29,2026-02-12
+H0214,Victoria Wright,Marketing,Password Reset,Need to reset email password after upgrade,Low,Closed,2025-11-13,2025-11-17
+H0112,Umar King,Finance,VPN Issue,VPN connection drops frequently during work hours,Low,Open,2026-05-13,
+H0164,Patrick Rodriguez,IT,VPN Issue,VPN timeout after 30 minutes of inactivity,Low,Open,2026-04-11,
+H0001,Umar King,Finance,VPN Issue,VPN connection drops frequently during work hours,Low,In Progress,2026-05-09,
+H0045,Umar King,Finance,password,"Battery drains in 2 hours, needs replacement",Low,Resolved,2025-11-24,2025-11-27
+H0044,Olivia Garcia,Engineering,Password Reset,"Forgot Windows login password, locked out",Low,Open,2026-02-22,
+H0029,Liam Jackson,Finance,Hardware Request,Requesting USB hub for peripherals,Medium,Open,2026-03-19,
+H0187,Olivia Garcia,Engineering,Network Connectivity,Cannot access internal SharePoint sites,High,In Progress,2026-02-26,
+H0200,Xena Green,Engineering,Hardware Request,Requesting second monitor for productivity,High,In Progress,2025-11-30,
+H0138,Benjamin Mitchell,Engineering,Hardware Request,Requesting docking station for new laptop,Critical,Resolved,2025-11-27,2025-12-07
+H0070,Benjamin Mitchell,Engineering,Password Reset,Need to reset email password after upgrade,High,Open,2026-02-14,
+H0047,Mia Harris,Marketing,Software Installation,Requesting Zoom desktop app installation,Critical,In Progress,2026-01-13,
+H0038,Carol White,Finance,Email Access,Emails not syncing on mobile device,Medium,In Progress,2026-01-11,
+H0069,Yasmine Baker,IT,Email Access,Emails not syncing on mobile device,Critical,Open,2026-04-08,
+H0007,David Brown,Engineering,VPN Issue,Getting authentication error when connecting to VPN,med,Closed,2025-11-25,2025-12-09
+H0174,Karen Thomas,HR,Network Connectivity,Cannot access internal SharePoint sites,Critical,Resolved,2026-04-30,2026-05-07
+H0140,Benjamin Mitchell,Engineering,Laptop Issue,"Battery drains in 2 hours, needs replacement",Medium,In Progress,2025-11-17,
+H0072,Frank Wilson,Sales,network,Need webcam and headset for remote meetings,Low,Open,2026-02-06,
+H0190,Benjamin Mitchell,Engineering,Software Installation,Requesting Microsoft Project for project management,Medium,Resolved,2026-02-07,2026-02-09
+H0095,Tina Young,HR,Hardware Request,Need replacement power adapter for laptop,Critical,Resolved,2026-03-21,2026-03-24
+H0090,Patrick Rodriguez,IT,software,Emails not syncing on mobile device,Low,Resolved,2026-02-25,2026-03-08
+H0218,David Brown,Engineering,Network Connectivity,Cannot access shared network drives,Low,Resolved,2025-12-04,2025-12-10
+H0058,Olivia Garcia,Engineering,Hardware Request,Need replacement power adapter for laptop,High,Open,2026-04-06,
+H0124,Isabella Martinez,Engineering,Laptop Issue,Screen flickering and display distorted,Medium,Resolved,2026-05-12,2026-05-22
+H0040,Grace Lee,IT,VPN Issue,VPN client not installed on new laptop,Low,Resolved,2026-04-18,2026-04-24
+H0055,Umar King,Finance,Software Installation,Requesting Slack installation on laptop,Critical,Resolved,2026-01-20,2026-01-21
+H0195,Umar King,Finance,Password Reset,New employee account password setup required,High,Open,2026-04-23,
+H0027,Christine Perez,HR,email,Cannot access Outlook after password change,High,Open,2026-03-09,
+H0157,Umar King,Finance,Hardware Request,Requesting docking station for new laptop,Critical,In Progress,2025-11-24,
+H0080,Alice Johnson,Engineering,Email Access,Calendar not syncing with team members,Medium,Resolved,2026-02-02,2026-02-04
+H0074,Henry Taylor,Operations,VPN Issue,Getting authentication error when connecting to VPN,Medium,In Progress,2026-02-11,
+H0014,Victoria Wright,Marketing,Software Installation,Need AutoCAD for engineering drawings,Medium,Open,2026-04-05,
+H0109,Isabella Martinez,Engineering,Laptop Issue,Keyboard keys sticking and not responding,High,In Progress,2025-12-25,
+H0091,William Scott,Sales,Network Connectivity,Cannot access shared network drives,med,Resolved,2026-03-07,2026-03-11
+H0181,Bob Smith,HR,Email Access,Calendar not syncing with team members,Low,Closed,2025-12-31,2026-01-04
+H0032,Xena Green,Engineering,Laptop Issue,Blue screen occurring multiple times daily,Low,Open,2026-05-14,
+H0085,Rachel Walker,Legal,Hardware Request,Need webcam and headset for remote meetings,Low,Closed,2026-01-17,2026-01-21
+H0211,William Scott,Sales,Software Installation,Need Python and Anaconda for data analysis,Medium,Resolved,2026-02-22,2026-02-26
+H0144,James Anderson,Legal,hardware,WiFi dropping in Building B,Critical,Resolved,2026-01-18,2026-01-28
+H0151,Frank Wilson,Sales,Hardware Request,Need webcam and headset for remote meetings,High,In Progress,2026-04-02,
+H0033,Victoria Wright,Marketing,Laptop Issue,Blue screen occurring multiple times daily,Medium,In Progress,2026-01-07,
+H0143,Tina Young,HR,Hardware Request,Need webcam and headset for remote meetings,Medium,Resolved,2026-05-18,2026-05-26
+H0034,Daniel Roberts,Finance,Email Access,"Cannot send emails, getting SMTP error",Medium,In Progress,2026-05-02,
+H0170,Karen Thomas,HR,Hardware Request,Requesting docking station for new laptop,High,Closed,2025-11-01,2025-11-13
+H0219,Samuel Hall,Engineering,Software Installation,Requesting Microsoft Project for project management,Low,Closed,2025-12-15,2025-12-16
+H0184,James Anderson,Legal,Software Installation,Requesting Microsoft Project for project management,High,Open,2026-02-19,
+H0166,Amy Carter,Legal,VPN Issue,VPN timeout after 30 minutes of inactivity,Critical,Resolved,2025-12-01,2025-12-09
+H0022,Benjamin Mitchell,Engineering,VPN Issue,VPN timeout after 30 minutes of inactivity,Medium,Open,2026-04-10,
+H0024,Quinn Lewis,Operations,Software Installation,Requesting Zoom desktop app installation,Low,Open,2026-04-24,
+H0018,Carol White,Finance,Laptop Issue,"Battery drains in 2 hours, needs replacement",High,In Progress,2025-12-25,
+H0122,Noah Thompson,Sales,Password Reset,"Password expired, cannot access systems",High,Resolved,2026-04-07,2026-04-15
+H0040,Grace Lee,IT,VPN Issue,VPN client not installed on new laptop,Low,Resolved,2026-04-18,2026-04-24
+H0096,Benjamin Mitchell,Engineering,Laptop Issue,Laptop not connecting to external monitor,Critical,Resolved,2026-01-06,2026-01-20
+H0066,Rachel Walker,Legal,VPN Issue,VPN client not installed on new laptop,High,Open,2026-03-30,
+H0171,Amy Carter,Legal,software,"Cannot send emails, getting SMTP error",Critical,In Progress,2025-12-09,
+H0175,Zachary Nelson,Operations,Hardware Request,Need ergonomic keyboard and mouse,High,Open,2026-03-07,
+H0220,Xena Green,Engineering,Laptop Issue,"Battery drains in 2 hours, needs replacement",Low,Open,2026-05-10,
+H0081,Daniel Roberts,Finance,Network Connectivity,Cannot access internal SharePoint sites,High,Open,2026-04-19,
+H0025,Christine Perez,HR,Email Access,Cannot access Outlook after password change,High,In Progress,2026-05-16,
+H0107,Daniel Roberts,Finance,Password Reset,"Forgot Windows login password, locked out",Low,Open,2026-02-09,
+H0029,Liam Jackson,Finance,Hardware Request,Requesting USB hub for peripherals,Medium,Open,2026-03-19,
+H0196,David Brown,Engineering,Network Connectivity,WiFi dropping in Building B,Low,In Progress,2026-01-19,
+H0087,Grace Lee,IT,Email Access,Calendar not syncing with team members,Critical,Open,2026-05-08,
+H0106,Karen Thomas,HR,Network Connectivity,Cannot connect to office printer over network,Critical,Open,2026-05-05,
+H0059,Amy Carter,Legal,Email Access,Emails not syncing on mobile device,High,Open,2026-04-19,
+H0116,James Anderson,Legal,VPN Issue,VPN client not installed on new laptop,Low,In Progress,2026-01-19,
+H0193,Yasmine Baker,IT,Network Connectivity,Internet extremely slow on 3rd floor,Low,Resolved,2026-04-05,2026-04-19
+H0056,Tina Young,HR,Email Access,"Accidentally deleted important emails, need recovery",Medium,Resolved,2025-11-19,2025-11-28
+H0185,Quinn Lewis,Operations,Laptop Issue,Screen flickering and display distorted,Medium,Resolved,2025-12-14,2025-12-16
+H0142,James Anderson,Legal,VPN Issue,"VPN is extremely slow, impacting productivity",Medium,In Progress,2025-12-01,
+H0167,James Anderson,Legal,Email Access,Emails not syncing on mobile device,High,Resolved,2026-02-15,2026-02-23
+H0168,Olivia Garcia,Engineering,Email Access,Need email access set up on new phone,High,Open,2026-02-07,
+H0030,Karen Thomas,HR,Laptop Issue,Keyboard keys sticking and not responding,Low,Closed,2025-11-29,2025-12-13
+H0180,Benjamin Mitchell,Engineering,laptop,Requesting USB hub for peripherals,Critical,In Progress,2026-01-21,
+H0026,James Anderson,Legal,Laptop Issue,Laptop not connecting to external monitor,Medium,Open,2026-02-25,
+H0111,Amy Carter,Legal,VPN Issue,VPN connection drops frequently during work hours,Critical,Resolved,2025-11-05,2025-11-11
+H0155,Samuel Hall,Engineering,VPN Issue,VPN connection drops frequently during work hours,High,Open,2026-03-28,
+H0130,James Anderson,Legal,Password Reset,Account locked after multiple failed attempts,Critical,Open,2026-04-27,
+H0117,William Scott,Sales,Laptop Issue,"Laptop running extremely slow, 10+ min to boot",Low,Open,2026-04-01,
+H0076,Amy Carter,Legal,Email Access,Emails not syncing on mobile device,High,Resolved,2025-11-08,2025-11-13
+H0136,Frank Wilson,Sales,Software Installation,Need Python and Anaconda for data analysis,Low,Open,2026-05-01,
+H0153,Rachel Walker,Legal,vpn,Internet extremely slow on 3rd floor,Critical,Resolved,2025-11-21,2025-11-28
+H0098,Olivia Garcia,Engineering,VPN Issue,Getting authentication error when connecting to VPN,low,Closed,2025-12-31,2026-01-06
+H0084,Mia Harris,Marketing,Network Connectivity,Cannot connect to office printer over network,High,In Progress,2026-04-07,
+H0216,Amy Carter,Legal,hardware,Cannot access Outlook after password change,Medium,Resolved,2026-01-24,2026-02-06
+H0141,Carol White,Finance,Email Access,Need email access set up on new phone,Low,Resolved,2025-12-09,2025-12-22
+H0150,Henry Taylor,Operations,Network Connectivity,WiFi dropping in Building B,Medium,Resolved,2026-01-08,2026-01-10
+H0163,Grace Lee,IT,Software Installation,Requesting Zoom desktop app installation,Medium,In Progress,2026-01-13,
+H0160,Bob Smith,HR,Laptop Issue,"Laptop running extremely slow, 10+ min to boot",Low,Closed,2026-01-20,2026-01-26
+H0071,Xena Green,Engineering,Software Installation,Need Python and Anaconda for data analysis,Critical,Open,2026-04-21,
+H0033,Victoria Wright,Marketing,Laptop Issue,Blue screen occurring multiple times daily,Medium,In Progress,2026-01-07,
+H0017,Henry Taylor,Operations,Hardware Request,Requesting docking station for new laptop,Low,In Progress,2026-01-20,
+H0038,Carol White,Finance,Email Access,Emails not syncing on mobile device,Medium,In Progress,2026-01-11,
+H0156,Patrick Rodriguez,IT,Email Access,"Cannot send emails, getting SMTP error",Critical,Resolved,2026-01-11,2026-01-21
+H0083,William Scott,Sales,Software Installation,Requesting Zoom desktop app installation,Medium,In Progress,2025-12-20,
+H0021,Liam Jackson,Finance,Password Reset,"Forgot Windows login password, locked out",High,Resolved,2026-03-11,2026-03-13
+H0019,Christine Perez,HR,Network Connectivity,Cannot access shared network drives,Critical,Closed,2025-12-07,2025-12-10
+H0114,Emma Davis,Marketing,Laptop Issue,"Battery drains in 2 hours, needs replacement",Low,Open,2026-03-25,
+H0183,Frank Wilson,Sales,Network Connectivity,WiFi dropping in Building B,High,Resolved,2025-11-08,2025-11-14
+H0126,Frank Wilson,Sales,vpn,Need AutoCAD for engineering drawings,Critical,Closed,2026-01-30,2026-02-05
+H0028,Benjamin Mitchell,Engineering,Network Connectivity,Cannot access shared network drives,low,Open,2026-04-13,
+H0176,Quinn Lewis,Operations,Email Access,Cannot access Outlook after password change,High,In Progress,2025-11-26,
+H0110,Karen Thomas,HR,Hardware Request,Requesting docking station for new laptop,Critical,In Progress,2026-01-11,
+H0103,Mia Harris,Marketing,Laptop Issue,"Battery drains in 2 hours, needs replacement",Low,Closed,2026-01-30,2026-02-12
+H0217,Isabella Martinez,Engineering,Hardware Request,Need ergonomic keyboard and mouse,High,Closed,2025-12-04,2025-12-17
+H0123,Amy Carter,Legal,Network Connectivity,WiFi dropping in Building B,High,Resolved,2026-01-22,2026-02-05
+H0016,William Scott,Sales,Email Access,Cannot access Outlook after password change,Medium,In Progress,2026-04-25,
+H0008,Tina Young,HR,Software Installation,Need Adobe Creative Suite for design project,Low,Resolved,2026-05-06,2026-05-15
+H0165,Frank Wilson,Sales,Software Installation,Requesting Microsoft Project for project management,Low,Resolved,2026-03-22,2026-03-24
+H0118,William Scott,Sales,Hardware Request,Requesting USB hub for peripherals,High,Open,2026-04-25,
+H0078,Xena Green,Engineering,Hardware Request,Need webcam and headset for remote meetings,High,Open,2026-02-20,
+H0134,Xena Green,Engineering,Email Access,"Cannot send emails, getting SMTP error",Medium,Resolved,2025-12-20,2026-01-01
+H0169,Quinn Lewis,Operations,Network Connectivity,Cannot connect to office printer over network,Medium,Closed,2025-11-18,2025-12-01
+H0050,Bob Smith,HR,Email Access,Cannot access Outlook after password change,Critical,Open,2026-03-09,
+H0201,Emma Davis,Marketing,Hardware Request,Requesting USB hub for peripherals,Medium,Resolved,2026-04-23,2026-05-07

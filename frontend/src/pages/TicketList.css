@@ -1,0 +1,38 @@
+.ticket-list .page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.table-card { padding: 0; overflow: hidden; }
+
+.full-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.full-table th {
+  text-align: left;
+  padding: 10px 16px;
+  background: var(--gray-50);
+  border-bottom: 1px solid var(--gray-200);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--gray-500);
+}
+
+.full-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--gray-100);
+  vertical-align: middle;
+}
+
+.full-table tr:last-child td { border-bottom: none; }
+
+.full-table tr:hover td { background: var(--gray-50); }
+
+.ticket-id { color: var(--gray-400); font-size: 0.8rem; }
+.employee-name { font-weight: 500; }
+.date { color: var(--gray-500); font-size: 0.8rem; white-space: nowrap; }
