@@ -23,7 +23,7 @@ frontend/.vite/
 
 # Logs
 *.log
-*.txt
+backend_*.txt
 
 # OS
 .DS_Store
